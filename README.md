@@ -9,4 +9,4 @@ If you want to get started right now with a new empress-blog just click the butt
 
 ## Technology
 
-If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Telegram](https://t.me/shegertechsupport)
+If you are interested in how this works then go checkout the [empress-blog](https://github.com/empress/empress-blog) repo or reach out to me [on Twitter](twitter.com/real_ate)
