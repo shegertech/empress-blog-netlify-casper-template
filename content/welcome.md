@@ -19,7 +19,7 @@ We know that first impressions are important, so we've populated your new site w
 
 ### There are a few things that you should know up-front:
 
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
+1. empress-blog is designed to be a static site version of the amazing [Website Design in Ethiopia](https://shegertech.com/)
 
 1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
 
