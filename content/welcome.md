@@ -1,15 +1,15 @@
 ---
 title: Welcome to empress-blog
-image: /images/welcome.jpg
+date: 2018-06-12 18:59:59 Z
+image: "/images/welcome.jpg"
 imageMeta:
-  attribution:
-  attributionLink:
+  attribution: 
+  attributionLink: 
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
+- ghost
 tags:
-  - getting-started
+- getting-started
 ---
 
 Hey! Welcome to empress-blog, it's great to have you :)

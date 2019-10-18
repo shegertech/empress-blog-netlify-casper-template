@@ -1,15 +1,15 @@
 ---
 title: Managing Ghost users
-image: /images/team.jpg
+date: 2018-06-12 17:55:01 Z
+image: "/images/team.jpg"
 imageMeta:
-  attribution:
-  attributionLink:
+  attribution: 
+  attributionLink: 
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 17:55:01 GMT+0100 (IST)
+- ghost
 tags:
-  - getting-started
+- getting-started
 ---
 
 empress-blog does not, and will never have the concept of user roles!

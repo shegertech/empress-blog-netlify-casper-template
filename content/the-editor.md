@@ -1,15 +1,15 @@
 ---
 title: Editing Posts with empress-blog
-image: /images/writing.jpg
+date: 2018-06-12 17:58:54 Z
+image: "/images/writing.jpg"
 imageMeta:
-  attribution:
-  attributionLink:
+  attribution: 
+  attributionLink: 
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+- ghost
 tags:
-  - getting-started
+- getting-started
 ---
 
 empress-blog uses a language called **Markdown** to format text, and so does the original Ghost 🎉
